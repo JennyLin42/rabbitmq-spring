@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RabbitmqSpringApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(RabbitmqSpringApplication.class, args);
     }
 
